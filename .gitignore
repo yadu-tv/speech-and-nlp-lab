@@ -1,3 +1,6 @@
+environmental-sound-classification/audio/*
+environmental-sound-classification/audio
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
